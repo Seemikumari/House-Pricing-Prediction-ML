@@ -66,7 +66,3 @@ The dataset used is the Boston Housing Dataset, which contains features like cri
 - Matplotlib
 - Joblib
 
-You can install the required libraries using:
-
-```bash
-pip install -r requirements.txt
